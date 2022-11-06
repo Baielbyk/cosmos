@@ -1,0 +1,666 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#footer {
+    background: url("../img/Group 16.png");
+}
+
+#input {
+    background: black;
+}
+
+.header {
+    width: 70%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sub a {
+    text-decoration: none;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+.sub {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+}
+
+.headerA a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.sub a:nth-child(1) {
+    color: #CB0E0E;
+}
+
+.headerA {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 20%;
+}
+
+#medvedisa {
+    background: url("../img/Group 11.svg") no-repeat center;
+}
+
+#scarlet {
+    background: url("../img/Group 18.jpg");
+}
+
+#pivo {
+    background: url("../img/Group 14.jpg");
+}
+
+#cosmos {
+    background: url("../img/Group 13.jpg") no-repeat center;
+}
+
+#hero {
+    background: url("../img/Group 10.png") no-repeat center;
+}
+.blya{
+    display: flex;
+    flex-direction: column;
+
+}
+.kot {
+    padding: 210px 0 0 0;
+    width: 400px;
+}
+.kot2 {
+    width: 420px;
+}
+
+span {
+    font-weight: 400;
+    font-size: 90px;
+}
+
+.heroh5 {
+    font-weight: 400;
+    font-size: 19px;
+    color: white;
+}
+
+.kano {
+    margin: 15px 0 16px -85px;
+    width: 73%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.herobtn {
+    cursor: pointer;
+    color: white;
+    font-size: 22px;
+    padding: 10px 115px;
+    border: solid 2px white;
+    background: none;
+}
+
+.herobtn:hover {
+    color: black;
+    background: white;
+    border: solid 2px black;
+}
+
+.barakaa {
+    display: flex;
+    justify-content: flex-end;
+
+    margin-top: 100px;
+}
+
+.barakah4 {
+    padding: 0 0 100px 0;
+    font-weight: 400;
+    margin: 0 10px;
+    color: white;
+    width: 20%;
+}
+
+.cosmosH1 {
+    font-size: 40px;
+    padding: 100px 0;
+    color: white;
+    font-family: 'Space Age Cyrillic';
+}
+
+.main {
+    margin: 0 50px 0 0;
+    width: 400px;
+}
+
+.cosmosImg {
+    display: flex;
+    flex-direction: column;
+}
+
+.priv {
+    display: flex;
+    flex-direction: column;
+}
+
+.baia {
+    display: flex;
+
+}
+
+.cosmosH2 {
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.cosmosH6 {
+    font-size: 10px;
+    color: #036CCA;
+    margin: 8px 0;
+}
+
+.cosmosH4 {
+    margin: 5px;
+    width: 130px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.baiaH3 {
+    margin: 10px 0;
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.BAai {
+    margin: 10px 0 0 0;
+    border-top: solid 1px white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.BAAi {
+    margin: 10px 0 0 0;
+    border-top: solid 1px white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Baia1H3 {
+    text-align: center;
+    display: flex;
+    margin: 10px 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.Baia2H3 {
+    text-align: center;
+    display: flex;
+    margin: 10px 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.Baia3H3 {
+    text-align: center;
+    display: flex;
+    margin: 10px 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.Baia4H3 {
+    text-align: center;
+    display: flex;
+    margin: 10px 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.Baia5H3 {
+    text-align: center;
+    display: flex;
+    margin: 10px 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.liner {
+    width: 100%;
+    height: 1px;
+    background: white;
+}
+
+.cosmos1 {
+    display: flex;
+}
+
+.cosmos2 {
+    margin: 120px 0;
+    display: flex;
+}
+
+.cosmos3 {
+    display: flex;
+
+}
+
+.privbtn {
+    border: solid 1px white;
+    color: white;
+    background: none;
+    cursor: pointer;
+    margin: 20px 0 0 0;
+    width: 190px;
+    padding: 10px;
+}
+
+.main1 {
+    margin: 0 0 0 50px;
+    width: 400px;
+}
+
+.prive {
+    display: flex;
+    flex-direction: column;
+}
+
+.baia1 {
+    display: flex;
+}
+
+.BAai1 {
+    margin: 10px 0 0 0;
+    border-top: solid 1px white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.BAAi1 {
+    margin: 10px 0 0 0;
+    border-top: solid 1px white;
+    justify-content: space-between;
+    display: flex;
+}
+
+.medvedisaImg {
+    width: 600px;
+    padding: 120px 0 0 100px;
+}
+
+.medvedisaH1 {
+    padding: 50px 0 0 0;
+    font-size: 40px;
+    color: white;
+    font-family: 'Space Age Cyrillic', sans-serif;
+}
+
+.pivoSvg {
+    height: 80px;
+    width: 460px;
+    padding: 20px 100px 870px 0;
+}
+
+.baltika {
+    display: flex;
+}
+
+.pivoH3 {
+    font-size: 15px;
+    font-weight: 180;
+    color: white;
+    width: 380px;
+    margin: 50px 10px;
+}
+
+.scarlet svg {
+    padding: 120px 0 0 0;
+}
+
+.blockSpan {
+    font-size: 16px;
+    color: #CB0E0E;
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+}
+
+.block1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    height: 290px;
+    border: solid 1px white;
+    margin: 70px 100px 0 50px;
+
+}
+
+.block1 svg {
+    padding: 130px 0 0 140px;
+}
+
+.block2 svg {
+    padding: 120px 0 0 140px;
+}
+
+.blockSvg {
+    padding: 0 120px 0 0;
+}
+
+.block2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    border: solid 1px white;
+    margin: 70px 100px 0 50px;
+
+}
+
+.block1H1 {
+    padding: 40px 0 0 0;
+    font-size: 16px;
+    text-align: center;
+    width: 250px;
+    color: white;
+}
+
+.block2H1 {
+    padding: 40px 0 0 0;
+    font-size: 16px;
+    text-align: center;
+    width: 200px;
+    color: white;
+}
+
+.scarletSvg {
+    width: 400px;
+}
+
+.blockSvg {
+    left: 10px;
+}
+
+.block1H2 {
+    padding: 10px 0 0 0;
+    color: white;
+    font-size: 24px;
+}
+
+.privbtn2 {
+    margin: 20px 50px 1px 1px;
+    border: solid 1px white;
+    padding: 15px 95px;
+    background: none;
+    color: white;
+}
+.privbtn3{
+    margin: 20px 50px 1px 1px;
+    border: solid 1px white;
+    padding: 15px 95px;
+    background: none;
+    color: white;
+}
+
+.privbtn2:hover {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 0.9448821765034139) 34%, rgba(0, 212, 255, 1) 100%);
+}
+
+.huinya {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.huinya2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ilon {
+    width: 98%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ilonbtn {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+}
+
+.ilonbtn1 {
+    border: solid 1px white;
+    background: none;
+    color: white;
+    margin: 15px 0;
+    padding: 15px 70px;
+}
+
+.ilonimg {
+    margin-top: -65px;
+    margin-left: 200px;
+    width: 120px;
+    position: absolute;
+}
+
+.mySwiper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swiper {
+    width: 70%;
+    height: 70%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: none;
+    flex-direction: column;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    background: none;
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+.cliner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px white;
+
+}
+
+.swiper-wrapper {
+    padding: 120px;
+}
+
+.swiper-button-next {
+}
+
+.ccc {
+    width: 120%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ccc svg {
+    margin-top: -120px;
+    width: 50px;
+}
+
+.sliderh1 {
+    padding: 25px 0 100px 0;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Space Age Cyrillic', sans-serif;
+    color: white;
+}
+
+.inputh1 {
+    font-family: 'Space Age Cyrillic', sans-serif;
+    color: white;
+}
+
+.inputH3 {
+    color: white;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.input-block {
+    width: 45%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px 0;
+}
+
+.iinput {
+    color: white;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.input-border {
+    border-bottom: solid 1px white;
+}
+
+.input-border1 {
+    border-bottom: solid 1px white;
+}
+
+.input-border2 {
+    border-bottom: solid 1px white;
+}
+
+.input-block button {
+    background: none;
+    color: white;
+    border: solid 1px white;
+    padding: 10px 50px;
+}
+
+.input {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputh3 {
+    color: white;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.input-block2 {
+    width: 45%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 40px 0;
+}
+
+.inputimg {
+    width: 300px;
+}
+
+.footerH3 {
+    width: 120px;
+}
+
+.footerH3 h3 {
+    color: white;
+    font-size: 13px;
+}
+
+.footerH3 h3:nth-child(1) {
+    padding: 0 0 25px 0;
+}
+.riiiip{
+    width: 30px;
+    height: 30px;
+}
+
+
+.footer {
+    padding: 100px 0 100px 250px ;
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.footerA {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footerA a {
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+}
+.footerbial h3{
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.footerbial h3:nth-child(4){
+    color: #CB0E0E;
+}
+.reep{
+    width: 500px;
+}

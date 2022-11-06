@@ -1,0 +1,638 @@
+@media (max-width: 1920px) {
+    .kano{
+        width: 48%;
+    }
+    .kot {
+        margin-left: 12px;
+    }
+    .main {
+        width: 550px;
+    }
+    .cosmosH2 {
+        font-size: 60px;
+    }
+    .cosmosH6{
+    font-size: 20px;
+    }
+    .cosmosH4 {
+        width: 234px;
+        font-size: 23px;
+    }
+    .privbtn{
+        width: 300px;
+        padding: 15px;
+    }
+    .main1 {
+        margin: 0 0 0 100px;
+        width: 510px;
+    }
+    .medvedisaImg {
+        padding: 120px 0 0 260px;
+    }
+    .medvedisaH1{
+        padding: 80px 0 0 70px;
+    }
+}
+@media (max-width: 1500px) {
+    .kano {
+        width: 59%;
+    }
+    .cosmosH1 {
+        font-size: 75px;
+    }
+
+    .cosmosH1 {
+        font-size: 75px;
+    }
+
+    .main1 {
+        margin: 0 0 0 50px
+    }
+    .cosmosH4{
+        width: 226px;
+    }
+}
+@media (max-width: 1200px) {
+    .heroh5{
+        font-size: 17px;
+    }
+    .main {
+        width: 550px;
+        height: 344px;
+    }
+    .kano{
+        width: 77%;
+    }
+    .cosmosH6 {
+        font-size: 20px;
+    }
+    .cosmosH4 {
+        width: 169px;
+        font-size: 16px;
+    }
+    .main1 {
+        margin: 0 0 0 80px;
+        width: 400px;
+    }
+    .medvedisaImg {
+        padding: 120px 0 0 170px;
+    }
+}
+@media (max-width: 1024px) {    #hero {
+        background-size: 1030px 854px, auto, 150px;
+    }
+    .headerA a {
+        text-decoration: none;
+        font-size: 13px;
+        color: #FFFFFF;
+    }
+    span {
+        font-weight: 400;
+        font-size: 80px;
+    }
+    .kot{
+        font-size: 44px;
+    }
+    .kano {
+        margin: 15px 0 16px -70px;
+        width: 80%;
+    }
+    .herobtn {
+        padding: 10px 95px;
+    }
+    .main {
+        width: 400px;
+    }
+    .cosmosH4 {
+        width: 130px;
+        font-size: 11px;
+    }
+    .main1 {
+        margin: 0 0 0 50px;
+    }
+    .medvedisaImg {
+        padding: 120px 0 0 20px;
+    }
+    .footer{
+        padding: 100px 0 100px 215px;
+    }
+    .barakah4 {
+        font-size: 12px;
+        padding: 0 0 16px 0;
+    }
+    .kot {
+        padding: 120px 0 0 0;
+    }
+
+}
+@media (max-width: 768px) {
+    #cosmos {
+        background-size: 1500px 1938px, auto, 150px;
+    }
+    #pivo {
+        background-size: 800px 508px, auto, 150px;
+    }
+    .sub a {
+        font-size: 9px;
+    }
+    .headerA a {
+        font-size: 9px;
+    }
+    .riiiip {
+        width: 20px;
+    }
+    .kot{
+        padding: 120px 0 0 0;
+        font-size: 33px;
+    }
+    span{
+        font-size: 60px;
+    }
+    .heroh5 {
+        font-size: 13px;
+    }
+    .sliderh1 {
+        font-size: 13px;
+    }
+    .kano{
+        width: 90%;
+    }
+    .herobtn {
+        font-size: 13px;
+        padding: 10px 85px;
+    }
+    .barakah4 {
+        padding: 0 0 10px 0;
+        width: 30%;
+    }
+    .main {
+        margin: 0 40px 0 0;
+        width: 270px;
+    }
+    .cosmosH4 {
+        width: 95px;
+        font-size: 10px;
+    }
+    .baiaH3{
+        font-size: 10px;
+    }
+    .Baia1H3{
+        font-size: 18px;
+    }
+    .Baia2H3{
+        font-size: 18px;
+    }
+    .Baia3H3{
+        font-size: 18px;
+    }
+    .Baia4H3{
+        font-size: 18px;
+    }
+    .Baia5H3{
+        font-size: 18px;
+    }
+    .main1 {
+        margin: 0 0 0 40px;
+        width: 280px;
+    }
+    .medvedisaImg {
+        width: 510px;
+    }
+    .pivoH3 {
+        width: 215px;
+    }
+    .pivoSvg {
+        padding: 20px 67px 420px 0;
+    }
+    .scarletSvg {
+        width: 350px;
+    }
+    .block1 {
+        width: 245px;
+        margin: 70px 25px 0 50px;
+        height: 270px;
+    }
+    .privbtn2 {
+        margin: 16px 17px 0 43px;
+        padding: 17px 41px;
+    }
+    .block2 {
+        width: 245px;
+        height: 270px;
+    }
+    .privbtn3 {
+        padding: 15px 40px;
+    }
+    .reep {
+        width: 320px;
+    }
+    .ilonbtn1 {
+        margin: 10px 10px 57px 10px;
+        padding: 10px 15px;
+    }
+    .ilonimg {
+        margin-top: -56px;
+        margin-left: 90px;
+        width: 100px;
+    }
+    .footer {
+        padding: 100px 0 100px 124px;
+        width: 78%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .pivoH3 {
+        font-size: 13px;
+    }
+}
+@media (max-width: 576px) {
+    .herobtn {
+        font-size: 13px;
+        padding: 10px 46px;
+    }
+    .pivoSvg {
+        height: 80px;
+        width: 320px;
+        padding: 20px 67px 420px 0;
+    }
+    .cosmosH1{
+        font-size: 20px;
+    }
+
+    #footer {
+        background-size: 1046px 321px, auto, 150px;
+    }
+    #scarlet {
+        background-size: 700px 759px, auto, 150px;
+    }
+    #pivo {
+        background-size: 575px 450px, auto, 150px;
+    }
+    #medvedisa {
+    background-size: 983px 541px, auto, 150px;
+}
+    #hero {
+        background-size: 700px 519px, auto, 161px;
+    }
+    #cosmos {
+        background-size: 576px 1308px, auto, 150px;
+    }
+    .headerA a {
+        font-size: 8px;
+    }
+    .sub a {
+        font-size: 8px;
+    }
+    .kot {
+        padding: 89px 0 0 0;
+    }
+    .kot2 {
+        width: 238px;
+    }
+    .kano {
+        width: 93%;
+    }
+    span {
+        font-size: 45px;
+    }
+    .kot {
+        width: 220px;
+    }
+
+    .heroh5 {
+        font-size: 9px;
+    }
+    .heroh5 {
+        font-size: 9px;
+    }
+    .barakah4 {
+        font-size: 13px;
+        padding: 0 0 12px 0;
+        width: 40%;
+    }
+    .cosmosH1 {
+        font-size: 45px;
+    }
+
+    .main {
+        margin: 0 20px 0 0;
+        width: 210px;
+        height: 269px;
+    }
+    .cosmosH2 {
+        font-size: 22px;
+    }
+    .cosmosH6 {
+        font-size: 9px;
+    }
+    .cosmosH4 {
+        width: 75px;
+        font-size: 7px;
+    }
+    .baiaH3 {
+        font-size: 8px;
+    }
+    .BAai {
+        width: 240px;
+    }
+    .Baia1H3 {
+        font-size: 10px;
+    }
+    .Baia2H3 {
+        font-size: 10px;
+    }
+    .Baia3H3 {
+        font-size: 10px;
+    }
+    .Baia4H3 {
+        font-size: 10px;
+    }
+    .Baia5H3 {
+        font-size: 10px;
+    }
+    .BAAi {
+        width: 240px;
+      }
+    .privbtn {
+        width: 200px;
+        padding: 7px;
+        font-size: 9px;
+    }
+    .main1 {
+        margin: 0 0 0 25px;
+        width: 200px;
+        height: 285px;
+    }
+    .medvedisaH1 {
+        padding: 50px 0 0 40px;
+        width: 300px;
+    }
+    .medvedisaImg {
+        width: 450px;
+    }
+    .medvedisaImg {
+        padding: 60px 0 0 20px;
+    }
+    .pivoH3 {
+        width: 160px;
+        font-size: 12px;
+    }
+    .scarlet svg {
+        padding: 100px 0 0 0;
+    }
+    .block1H1 {
+        font-size: 10px;
+        width: 200px;
+    }
+    .block1 {
+        width: 209px;
+        margin: 70px 25px 0 70px;
+        height: 258px;
+    }
+    .cosmos2 {
+        margin: 100px 0;
+    }
+    .privbtn2 {
+        font-size: 10px;
+        margin: 16px 17px 0 62px;
+        padding: 12px 42px;
+    }
+    .block2H1 {
+        padding: 24px 0 0 0;
+        font-size: 10px;
+        width: 197px;
+    }
+    .block2 {
+        width: 213px;
+        height: 260px;
+        margin: 71px 10px 0 -29px;
+    }
+    .privbtn3 {
+        margin: 14px 22px 1px -9px;
+        padding: 2px 51px;
+        font-size: 13px;
+    }
+    .sliderh1 {
+        font-size: 10px;
+    }
+    .input-block {
+        font-size: 13px;
+        width: 40%;
+        height: 420px;
+    }
+    .input-block button {
+        font-size: 11px;
+        padding: 9px 5px;
+    }
+    .inputh1 {
+        font-size: 18px;
+    }
+    .inputh3 {
+        font-size: 13px;
+    }
+    .inputimg {
+        width: 220px;
+    }
+    .footer {
+        padding: 100px 0 100px 74px;
+        width: 100%;
+    }
+    .footerH3 h3 {
+        font-size: 11px;
+    }
+    .footerA a {
+        font-size: 10px;
+    }
+    .footerA {
+        height: 120px;
+    }
+    .footerbial h3 {
+        font-size: 12px;
+        line-height: 25px;
+    }
+}
+@media (max-width: 400px) {
+    #pivo {
+        background-size: 615px 355px, auto, 150px;
+    }
+    #hero {
+        background-size: 540px 405px, auto, 161px;
+    }
+    #medvedisa {
+        background-size: 715px 414px, auto, 150px;
+    }
+    .pivoH3 {
+        width: 100px;
+        font-size: 6px;
+    }
+    .pivoSvg {
+        height: 116px;
+        width: 263px;
+        padding: 20px 67px 259px 0;
+    }
+    .privbtn {
+        width: 170px;
+    }
+    .baiaH3 {
+        font-size: 6px;
+    }
+    .medvedisaH1 {
+        padding: 12px 0 0 23px;
+        width: 200px;
+    }
+    .medvedisaImg {
+        padding: 36px 0 0 0;
+        width: 328px;
+    }
+    .BAai {
+        width: 164px;
+    }
+    .BAAi {
+        width: 158px;
+    }
+    .kot {
+        padding: 30px 0 0 0;
+    }
+    .kot {
+        width: 164px;
+    }
+    .kot2 {
+        width: 166px;
+        margin-top: -20px;
+    }
+    .kano {
+        margin: -12px 0 6px -30px;
+    }
+    .herobtn {
+        font-size: 7px;
+        padding: 4px 42px;
+    }
+    .kot {
+        margin-left: 2px;
+    }
+    .cosmosH6 {
+        font-size: 5px;
+    }
+    .Baia1H3 {
+        font-size: 6px;
+    }
+    .Baia2H3 {
+        font-size: 6px;
+    }
+    .Baia3H3 {
+        font-size: 6px;
+    }
+    .Baia4H3 {
+        font-size: 6px;
+    }
+    .Baia5H3 {
+        font-size: 6px;
+    }
+
+    .herobtn {
+        font-size: 9px;
+        padding: 10px 28px;
+    }
+    .cosmosH2 {
+        font-size: 14px;
+    }
+    .cosmosH4 {
+        width: 34px;
+        font-size: 4px;
+    }
+    .cosmosH1 {
+        font-size: 23px;
+        padding: 25px 0 30px 0;
+    }
+    .main {
+        width: 144px;
+        height: 220px;
+    }
+    .sub a {
+        font-size: 5px;
+    }
+    .headerA a {
+        font-size: 5px;
+    }
+    .riiiip {
+        width: 12px;
+    }
+    .kot {
+        padding: 60px 0 0 0;
+    }
+    .kot {
+        font-size: 17px;
+    }
+    span {
+        font-size: 30px;
+    }
+    .heroh5 {
+        font-size: 6px;
+    }
+    .kano {
+        width: 80%;
+    }
+    .barakaa {
+        margin-top: 55px;
+    }
+    .barakah4 {
+        font-size: 7px;
+        padding: 0 0 2px 0;
+    }
+    .barakah4 {
+        width: 25%;
+    }
+    .cosmos2 {
+        margin: 65px 0;
+    }
+    .main1 {
+        margin: 0 0 0 15px;
+        width: 144px;
+        height: 246px;
+    }
+    .scarletSvg {
+        width: 253px;
+    }
+    .scarlet svg {
+        padding: 34px 0 0 0;
+    }
+    .block1 {
+        width: 158px;
+        margin: 32px 25px 0 38px;
+        height: 258px;
+    }
+    .privbtn2 {
+        font-size: 7px;
+        margin: 16px 25px 0 36px;
+        padding: 7px 42px;
+    }
+    .block2 {
+        width: 157px;
+        margin: 32px 10px 0 1px;
+    }
+    .block2H1 {
+        font-size: 8px;
+        width: 124px;
+    }
+    .privbtn3 {
+        margin: 15px -35px 1px -47px;
+        font-size: 7px;
+        padding: 11px 36px;
+    }
+    .ilonbtn1 {
+        margin: 18px 9px 36px 10px;
+        padding: 10px 16px;
+        font-size: 10px;
+    }
+    .ilonimg {
+        margin-top: -48px;
+        margin-left: 5px;
+    }
+    .inputimg {
+        width: 160px;
+    }
+    .footer {
+        padding: 50px 0 33px 47px;
+        width: 99%;
+    }
+}
